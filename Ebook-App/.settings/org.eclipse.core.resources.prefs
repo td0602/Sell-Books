@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/DAO/BookDAOImpl.java=UTF-8
+encoding//src/main/java/com/admin/servlet/BookAdd.java=UTF-8
+encoding//src/main/java/com/user/servlet/AddOldBook.java=UTF-8
+encoding//src/main/java/com/user/servlet/LoginServlet.java=UTF-8
+encoding//src/main/webapp/common/taglib.jsp=UTF-8
